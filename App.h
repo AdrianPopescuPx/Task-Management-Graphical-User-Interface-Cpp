@@ -16,10 +16,11 @@
 class TTitle : public TForm
 {
 __published:	// IDE-managed Components
-	TEdit *Edit1;
-	TButton *Button1;
-	TListBox *ListBox1;
+	TEdit *InputText;
+	TButton *AddTaskBtn;
+	TListBox *TaskList;
 	TLabel *Title;
+	void __fastcall AddTaskBtnClick(TObject *Sender);
 private:	// User declarations
 public:		// User declarations
 	__fastcall TTitle(TComponent* Owner);

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/25 14:47:00.000.305,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/07/25 14:47:00.000.624,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/25 14:54:53.000.667,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\adria\Documents\Embarcadero\Studio\Projects\App.h</Transaction>
+    <Transaction>2023/07/25 14:54:53.000.667,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\adria\Documents\Embarcadero\Studio\Projects\App.fmx</Transaction>
+    <Transaction>2023/07/25 14:54:53.000.667,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\adria\Documents\Embarcadero\Studio\Projects\App.cpp</Transaction>
+    <Transaction>2023/07/25 14:55:41.000.969,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\adria\Desktop\Task-Management-Graphical-User-Interface-Cpp\Project1.cbproj</Transaction>
+    <Transaction>2023/07/25 14:55:41.000.898,C:\Users\adria\Documents\Embarcadero\Studio\Projects\App.cpp=C:\Users\adria\Desktop\Task-Management-Graphical-User-Interface-Cpp\App.cpp</Transaction>
+    <Transaction>2023/07/25 14:55:41.000.930,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\adria\Desktop\Task-Management-Graphical-User-Interface-Cpp\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/25 14:55:41.000.898,C:\Users\adria\Documents\Embarcadero\Studio\Projects\App.fmx=C:\Users\adria\Desktop\Task-Management-Graphical-User-Interface-Cpp\App.fmx</Transaction>
+    <Transaction>2023/07/25 14:55:41.000.898,C:\Users\adria\Documents\Embarcadero\Studio\Projects\App.h=C:\Users\adria\Desktop\Task-Management-Graphical-User-Interface-Cpp\App.h</Transaction>
+  </Transactions>
+</BorlandProject>
