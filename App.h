@@ -6,15 +6,25 @@
 #include <System.Classes.hpp>
 #include <FMX.Controls.hpp>
 #include <FMX.Forms.hpp>
+#include <FMX.Controls.Presentation.hpp>
+#include <FMX.Edit.hpp>
+#include <FMX.Layouts.hpp>
+#include <FMX.ListBox.hpp>
+#include <FMX.StdCtrls.hpp>
+#include <FMX.Types.hpp>
 //---------------------------------------------------------------------------
-class TForm1 : public TForm
+class TTitle : public TForm
 {
 __published:	// IDE-managed Components
+	TEdit *Edit1;
+	TButton *Button1;
+	TListBox *ListBox1;
+	TLabel *Title;
 private:	// User declarations
 public:		// User declarations
-	__fastcall TForm1(TComponent* Owner);
+	__fastcall TTitle(TComponent* Owner);
 };
 //---------------------------------------------------------------------------
-extern PACKAGE TForm1 *Form1;
+extern PACKAGE TTitle *Title;
 //---------------------------------------------------------------------------
 #endif

@@ -7,9 +7,9 @@
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.fmx"
-TForm1 *Form1;
+TTitle *Title;
 //---------------------------------------------------------------------------
-__fastcall TForm1::TForm1(TComponent* Owner)
+__fastcall TTitle::TTitle(TComponent* Owner)
 	: TForm(Owner)
 {
 }
